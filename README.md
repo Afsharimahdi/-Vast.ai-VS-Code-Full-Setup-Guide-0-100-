@@ -1,6 +1,5 @@
 # 🚀 Vast.ai + VS Code: Full Setup Guide (0 → 100)
-
-https://github.com/Afsharimahdi/-Vast.ai-VS-Code-Full-Setup-Guide-0-100-/blob/main/README.md
+https://github.com/Afsharimahdi/-Vast.ai-VS-Code-Full-Setup-Guide-0-100-/blob/main/README_EN.md
 # 💻 How to Connect Vast.ai GPU Instances to VS Code
 ----------------------------------------------------------
 # 🚀 آموزش کامل اتصال Vast.ai به VS Code (۰ تا ۱۰۰)
